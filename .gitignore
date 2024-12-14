@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow the .gitignore file itself
+!.gitignore
+
+# Allow the specific file in the .devcontainer folder
+!.devcontainer/
+!.devcontainer/devcontainer.json
